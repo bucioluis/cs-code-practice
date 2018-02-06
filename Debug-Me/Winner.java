@@ -1,4 +1,4 @@
-//UIUC CS125 FALL 2014 MP. File: Winner.java, CS125 Project: Challenge1-DebugMe, Version: 2015-02-04T09:52:42-0600.340822045
+
 
 /**
  * This program prints "a","b","c" depending on who has the highest score. The
