@@ -1,4 +1,4 @@
-//UIUC CS125 FALL 2014 MP. File: QuizMaster.java, CS125 Project: Challenge1-DebugMe, Version: 2015-02-04T09:52:42-0600.340822045
+
 /**
  * A program to test students' CS knowledge.
  * Watch out ! There may be deliberate bugs in some of the logic below :-)
