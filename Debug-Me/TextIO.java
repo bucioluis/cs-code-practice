@@ -1,4 +1,4 @@
-//UIUC CS125 FALL 2014 MP. File: TextIO.java, CS125 Project: Challenge1-DebugMe, Version: 2015-02-04T09:52:42-0600.340822045
+
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
