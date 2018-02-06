@@ -1,4 +1,4 @@
-//UIUC CS125 FALL 2014 MP. File: FactorialTest.java, CS125 Project: Challenge1-DebugMe, Version: 2015-02-04T10:13:56-0600.689274672
+
 import junit.framework.TestCase;
 
 /**
