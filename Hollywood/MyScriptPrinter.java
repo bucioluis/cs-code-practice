@@ -1,4 +1,4 @@
-//UIUC CS125 FALL 2014 MP. File: MyScriptPrinter.java, CS125 Project: Challenge2-Hollywood, Version: 2015-02-09T07:33:26-0600.068983074
+
 /**
  * A program to print one actor's lines. 
  * See ScriptPrinter.txt for more information.
