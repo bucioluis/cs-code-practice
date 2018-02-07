@@ -1,4 +1,4 @@
-//UIUC CS125 FALL 2014 MP. File: TextIO.java, CS125 Project: Challenge2-Hollywood, Version: 2015-02-09T07:33:26-0600.068983074
+
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
