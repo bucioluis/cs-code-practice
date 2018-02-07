@@ -1,4 +1,4 @@
-//UIUC CS125 FALL 2014 MP. File: PongGame.java, CS125 Project: Challenge2-Hollywood, Version: 2015-02-09T07:33:26-0600.068983074
+
 /**
  * This class provides some diversion - a game of Pong. Feel free to modify it
  * BUT remember that all files must compile without error - otherwise you score
