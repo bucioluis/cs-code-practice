@@ -1,4 +1,4 @@
-//UIUC CS125 FALL 2014 MP. File: AutomaticScoreCheck.java, CS125 Project: Challenge3-TopSecret, Version: 2015-02-16T07:03:45-0600.471425819
+
 import java.io.BufferedInputStream;
 import java.io.File;
 import java.io.FileInputStream;
