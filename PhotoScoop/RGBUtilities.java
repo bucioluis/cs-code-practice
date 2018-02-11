@@ -1,4 +1,4 @@
-//UIUC CS125 FALL 2014 MP. File: RGBUtilities.java, CS125 Project: Challenge4-Photoscoop, Version: 2015-02-22T21:58:14-0600.814513453
+
 /* Manipulates RGB values
  * 
  * Todo: Put your netid (i.e. username) in the line below
