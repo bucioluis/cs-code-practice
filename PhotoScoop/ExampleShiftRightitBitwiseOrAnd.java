@@ -1,4 +1,4 @@
-//UIUC CS125 FALL 2014 MP. File: ExampleShiftRightitBitwiseOrAnd.java, CS125 Project: Challenge4-Photoscoop, Version: 2015-02-22T21:58:14-0600.814513453
+
 public class ExampleShiftRightitBitwiseOrAnd {
 
 	// Play with ExampleHexademical first!
