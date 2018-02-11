@@ -1,4 +1,4 @@
-//UIUC CS125 FALL 2014 MP. File: Example2DArrays.java, CS125 Project: Challenge4-Photoscoop, Version: 2015-02-22T21:58:14-0600.814513453
+
 public class Example2DArrays {
 
 	/**
