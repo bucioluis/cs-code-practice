@@ -1,4 +1,4 @@
-//UIUC CS125 FALL 2014 MP. File: ExampleHexademical.java, CS125 Project: Challenge4-Photoscoop, Version: 2015-02-22T21:58:14-0600.814513453
+
 public class ExampleHexademical {
 	// Important idea: 2 Hex digits represents exactly 8 bits.
 	// So it's a useful and compact notation to represent larger integers.
