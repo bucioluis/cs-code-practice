@@ -1,4 +1,4 @@
-//UIUC CS125 FALL 2014 MP. File: PixelEffectsTest.java, CS125 Project: Challenge4-Photoscoop, Version: 2015-02-22T21:58:14-0600.814513453
+
 import junit.framework.TestCase;
 /**
  * Tests PixelEffects.
