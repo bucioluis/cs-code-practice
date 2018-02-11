@@ -1,4 +1,4 @@
-//UIUC CS125 FALL 2014 MP. File: EffectsTest.java, CS125 Project: Challenge4-Photoscoop, Version: 2015-02-22T21:58:14-0600.814513453
+
 import junit.framework.TestCase;
 /* You do not need to modify this file, however it may be useful
 * to read how each test works.
