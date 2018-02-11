@@ -1,4 +1,4 @@
-//UIUC CS125 FALL 2014 MP. File: TextIO.java, CS125 Project: Challenge4-Photoscoop, Version: 2015-02-22T21:58:14-0600.814513453
+
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
