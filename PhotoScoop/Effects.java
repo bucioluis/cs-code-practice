@@ -1,4 +1,4 @@
-//UIUC CS125 FALL 2014 MP. File: Effects.java, CS125 Project: Challenge4-Photoscoop, Version: 2015-02-22T21:58:14-0600.814513453
+
 /*A class to delegate each effect request.
  * The process method is called whenever the user selects a menu item.
  * However it wouldnt be hard to build a batch program that also uses this process method.
