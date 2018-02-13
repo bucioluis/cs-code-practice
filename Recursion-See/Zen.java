@@ -1,4 +1,4 @@
-//UIUC CS125 FALL 2014 MP. File: Zen.java, CS125 Project: Challenge6-RecursionSee, Version: 2015-03-30T08:07:53-0500.286760888
+
 import java.awt.Color;
 import java.awt.Container;
 import java.awt.Cursor;
