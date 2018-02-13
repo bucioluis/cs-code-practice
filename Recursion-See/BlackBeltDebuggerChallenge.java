@@ -1,4 +1,4 @@
-//UIUC CS125 FALL 2014 MP. File: BlackBeltDebuggerChallenge.java, CS125 Project: Challenge6-RecursionSee, Version: 2015-03-30T08:07:53-0500.286760888
+
 /**
  * This class tests your Debugger Fu. Use Debug As > Unit Test on the Test
  * class. You'll need to set breakpoints and single step through the code.
