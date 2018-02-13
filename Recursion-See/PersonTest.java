@@ -1,4 +1,4 @@
-//UIUC CS125 FALL 2014 MP. File: PersonTest.java, CS125 Project: Challenge6-RecursionSee, Version: 2015-03-30T08:07:53-0500.286760888
+
 import junit.framework.TestCase;
 /**
  * Test file. You do do not need to modify this file.
