@@ -1,5 +1,4 @@
-//UIUC CS125 FALL 2014 MP. File: CheckInputOutput.java, CS125 Project: Challenge6-RecursionSee, Version: 2015-03-30T08:07:53-0500.286760888
-import java.io.BufferedReader;
+
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
 import java.io.FileNotFoundException;
