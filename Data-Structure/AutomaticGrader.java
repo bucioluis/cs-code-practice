@@ -1,4 +1,4 @@
-//UIUC CS125 FALL 2014 MP. File: AutomaticGrader.java, CS125 Project: Challenge5-DataStructures, Version: 2015-03-09T23:37:12-0500.058332832
+
 import java.io.BufferedInputStream;
 import java.io.File;
 import java.io.FileInputStream;
